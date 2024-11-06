@@ -1,1 +1,1 @@
-This is exercises for learning LangGraph.
+This repo contains some exercises for learning LangGraph.
